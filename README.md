@@ -1,1 +1,1 @@
-# zig_basics
+# Learning Basic Zig Programming Language
